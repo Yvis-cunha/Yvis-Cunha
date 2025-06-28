@@ -19,12 +19,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="25" alt="javascript logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="25" alt="docker logo"  />
   <img width="12" />
 </div>
 
 ## 📚 Projetos
-- [Projeto exemplo]() — Breve descrição do projeto
+-Em breve meu projeto aqui.
 
 ## Meus objetivos
 - Aprender os fundamentos da programação
