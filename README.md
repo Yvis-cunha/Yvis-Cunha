@@ -1,6 +1,9 @@
 ## Olá 👋 Eu sou Yvis Cunha!
 
 ## Sobre mim
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yvis-Cunha.Yvis-Cunha&left_text=Visitantes"  />
+</div>
 - 🎓 Atualmente sou aluno do Curso Técnico em Desenvolvimento de Sistemas - Senac RN.
 - 💻 Estou iniciando minha jornada na programação e aprendendo novas tecnologias.
 - 🌱 Meu foco atual é aprender *programação web*, incluindo HTML, CSS e JavaScript.
