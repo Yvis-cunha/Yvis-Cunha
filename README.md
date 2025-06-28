@@ -7,7 +7,7 @@
 - 🎯 Quero desenvolver habilidades práticas e participar de projetos para crescer na área de tecnologia.
 - 📫 Como me encontrar: https://www.linkedin.com/in/yvis-cunha-627974249
 
-## Tecnologias que estou estudando
+## 🚀 Tecnologias que estou estudando
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
@@ -19,9 +19,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="25" alt="javascript logo"  />
+  <img width="12" />
 </div>
 
-## Projetos
+## 📚 Projetos
 - [Projeto exemplo]() — Breve descrição do projeto
 
 ## Meus objetivos
@@ -30,7 +32,7 @@
 - Contribuir com projetos open source
 - Construir uma carreira sólida em desenvolvimento de software
 ##
-
+## 📊 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yvis-Cunha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Yvis-Cunha&locale=pt-br&mode=daily&theme=default&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
