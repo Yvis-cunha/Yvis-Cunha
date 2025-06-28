@@ -5,7 +5,7 @@
 - 💻 Estou iniciando minha jornada na programação e aprendendo novas tecnologias.
 - 🌱 Meu foco atual é aprender *programação web*, incluindo HTML, CSS e JavaScript.
 - 🎯 Quero desenvolver habilidades práticas e participar de projetos para crescer na área de tecnologia.
-- 📫 Como me encontrar: https://www.linkedin.com/in/yvis-cunha-627974249
+- 📫 Como me encontrar: 💼 <a href="https://www.linkedin.com/in/yvis-cunha-627974249" ref="nofollow">Linkedin</a>
 
 ## 🚀 Tecnologias que estou estudando
 
