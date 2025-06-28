@@ -1,16 +1,23 @@
-## Hi there 👋 eu sou Yvis Cunha!
+## Olá 👋 Eu sou Yvis Cunha!
 
-<!--
-**Yvis-cunha/Yvis-Cunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🎓 Atualmente sou aluno do Curso Técnico em Desenvolvimento de Sistemas - Senac RN.
+- 💻 Estou iniciando minha jornada na programação e aprendendo novas tecnologias.
+- 🌱 Meu foco atual é aprender *programação web*, incluindo HTML, CSS e JavaScript.
+- 🎯 Quero desenvolver habilidades práticas e participar de projetos para crescer na área de tecnologia.
+- 📫 Como me encontrar: [https://www.linkedin.com/in/yvis-cunha-627974249/]
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- [Projeto exemplo]() — Breve descrição do projeto
+
+## Meus objetivos
+- Aprender os fundamentos da programação
+- Criar projetos para praticar e evoluir
+- Contribuir com projetos open source
+- Construir uma carreira sólida em desenvolvimento de software
